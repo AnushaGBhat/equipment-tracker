@@ -101,7 +101,7 @@ http://localhost:3000
 * Focus is on functionality rather than UI design
 
 
-## 🚀 Improvements If Given More Time
+## Improvements If Given More Time
 * Add pagination for large datasets
 * Improve UI styling and responsiveness
 * Add form-level error messages
