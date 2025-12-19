@@ -19,11 +19,11 @@ The application allows users to manage equipment details including adding, updat
 * Search equipment by name or type 
 * Sort equipment by name 
 
-
 ##  Application Screenshot
 
-
-
+### Main UI
+The main interface showing the equipment list, add form, search box, and actions.
+![Main UI](screenshots/Main.png)
 
 
 ##  How Search Works
@@ -44,7 +44,8 @@ The search functionality is implemented on the **frontend**.
 
 This approach avoids unnecessary backend calls and keeps the UI responsive.
 
-
+### Search Functionality
+![Search](screenshots/Search.png)
 
 ##  How Sorting Works
 
@@ -59,6 +60,8 @@ Sorting is implemented on the **frontend table**.
 
 This keeps the implementation simple and easy to understand for an intern-level project.
 
+### Sorting Functionality
+![Sorting](screenshots/Sort.png)
 
 
 ##  How to Run the Project Locally
